@@ -31,7 +31,7 @@ Náhodné ID: accab505-c2f9-4e13-be66-27585aaa5a5e
 - AI nástroj: perchance.org
 - Prompt: "Vytvoř tematický obrázek na téma Linux, Git, Vagrant a virtuální servery"
 
-![Moje virtuální Linuxová laboratoř](./Images/linux-server.png)
+![Moje virtuální Linuxová laboratoř](./Images/linux-server.jpg)
 
 ## Nápověda a odkazy
 - Vagrant – příklady VM v ročníkovém projektu
@@ -42,5 +42,5 @@ Náhodné ID: accab505-c2f9-4e13-be66-27585aaa5a5e
 ## Použití AI
 
 Při tvorbě tohoto řešení byly využity nástroje umělé inteligence (Kimi) pro:
-- vygenerování tematického obrázku (`Images/linux-server.png`),
+- vygenerování tematického obrázku (`Images/linux-server.jpg`),
 - Při úpravách README.
